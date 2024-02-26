@@ -1,5 +1,5 @@
 
-[![MasterHead](https://wallpaperaccess.com/full/1947431.jpg)](https://Haripriya129.io)<h1 align="center">Hi 👋, I'm Hari Priya</h1>
+<h1 align="center">Hi 👋, I'm Hari Priya</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.6qnP8ZHESN0IhK15TWdahAHaFj&pid=Api&P=0&h=180"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haripriya129&label=Profile%20views&color=0e75b6&style=flat" alt="haripriya129" /> </p>
