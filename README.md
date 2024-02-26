@@ -1,12 +1,16 @@
 
-<h1 align="center">Hi 👋, I'm Hari Priya</h1>
+[![MasterHead](https://wallpaperaccess.com/full/1947431.jpg)](https://Haripriya129.io)<h1 align="center">Hi 👋, I'm Hari Priya</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.6qnP8ZHESN0IhK15TWdahAHaFj&pid=Api&P=0&h=180"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haripriya129&label=Profile%20views&color=0e75b6&style=flat" alt="haripriya129" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+-  All about me is at <a href="https://haripriya129.github.io/Portifolio/index.html">My Website</a>
 
+- 🔭 I’m currently working on **Something Intresting**
 
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👯 I’m looking to collaborate on **Dev Projects**
 
 - 📫 How to reach me **ysshpriya@gmail.com**
 
