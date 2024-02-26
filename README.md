@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://haripriya129.github.io/Portifolio/](https://haripriya129.github.io/Portifolio/)
+
 
 - 📫 How to reach me **ysshpriya@gmail.com**
 
